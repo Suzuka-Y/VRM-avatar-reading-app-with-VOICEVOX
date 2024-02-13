@@ -27,9 +27,9 @@ npm、yarn、VOICEVOXを使います。インストールしておいてくだ�
 3. `yarn install`
 4. `yarn add -D three react-three-fiber @pixiv/three-vrm @types/three` 
 
-フォルダ内のpublicフォルダの中に入り、VRMフォルダを新規作成する。  
+フォルダ内のpublicフォルダの中に、VRMフォルダを新規作成する。  
 VRMフォルダ内にvrmファイルを入れる。  
-次のコマンドを実行すれば、アプリが動きます。  
+クローンしたフォルダで次のコマンドを実行すれば、アプリが動きます。  
 `npm run dev`
 
 ## 参考  
